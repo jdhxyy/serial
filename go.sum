@@ -1,0 +1,4 @@
+github.com/jdhxyy/lagan v0.0.0-20220306095625-f4e9fff73677 h1:s4vg5Sk2c4NPYbJhXg6GGl/VhAp/Ho7VMVscybDvtrs=
+github.com/jdhxyy/lagan v0.0.0-20220306095625-f4e9fff73677/go.mod h1:thKkxhIW5/LKfiKOzNj/X+BU4LmlEZHRZPwT/EVFwqg=
+github.com/tarm/goserial v0.0.0-20151007205400-b3440c3c6355 h1:Kp3kg8YL2dc75mckomrHZQTfzNyFGnaqFhJeQw4ozGc=
+github.com/tarm/goserial v0.0.0-20151007205400-b3440c3c6355/go.mod h1:jcMo2Odv5FpDA6rp8bnczbUolcICW6t54K3s9gOlgII=
